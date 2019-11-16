@@ -1,6 +1,4 @@
 import React from "react";
-// import numbers from '../../../data';
-//import numbers from "../../../data";
 
 const NumberButton = props => {
   return (
