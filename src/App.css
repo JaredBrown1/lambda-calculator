@@ -21,6 +21,10 @@
   font-size: 5rem;
 }
 
+.display p {
+  margin: -1px;
+}
+
 .buttons {
   padding-top: 20px;
   display: flex;

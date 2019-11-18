@@ -4,8 +4,10 @@ const Display = props => {
   return (
     <div>
       <div className="display">
-        <p>0</p>
-        <span>{props.Display}</span>
+        <span>
+          {props.Display}
+          <p>0</p>
+        </span>
       </div>
     </div>
   );
